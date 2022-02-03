@@ -1,0 +1,22 @@
+# Authors
+
+qauland:
+  name        : "Qauland"
+  bio         : "Pemilik situs ini."
+  avatar      : "/assets/images/gw-3.1v3.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/qauland"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/qauland/qauland.github.io"
+
+hyropk:
+  name        : "HyroPk"
+  bio         : "Seorang petualang."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/hyropk"
