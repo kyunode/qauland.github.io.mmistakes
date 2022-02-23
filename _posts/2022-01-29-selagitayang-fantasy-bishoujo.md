@@ -10,6 +10,7 @@ header:
    overlay_filter: 0.35
    caption: "*Official art*"
 excerpt: "Tulisan singkat terhadap seri animasi Life with an Ordinary Guy who Reincarnated into a Total Fantasy Knockout."
+last_modified_at: 2022-02-23
 ---
 
 ***Life with an Ordinary Guy who Reincarnated into a Total Fantasy Knockout*** (*Fantajī Bishōjo Juniku Ojisan to*, 異世界美少女受肉おじさんと) adalah sebuah seri komik yang ditulis oleh Tsurusaki Yuu (diterbitkan oleh Cycomi milik Cygames) sejak November 2019. Saat pos ini ditulis, seri ini telah diadaptasi menjadi seri animasi televisi oleh studio OLM pada bulan Januari 2022.
@@ -33,3 +34,19 @@ Wah, ada *elf*.
 ## Episode 3
 
 *Trope*-nya klasik semua.
+
+## Episode 4
+
+Rame sekali, padahal desa.
+
+## Episode 5
+
+Dobel cengo.
+
+## Episode 6
+
+Jadi pengen makan cumi.
+
+## Episode 7
+
+... ndak jadi.

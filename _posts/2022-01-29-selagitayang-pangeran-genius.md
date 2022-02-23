@@ -10,7 +10,7 @@ header:
    overlay_filter: 0.35
    caption: "*Official art*"
 excerpt: "Tulisan singkat terhadap seri animasi Kiat Pemulihan Negara Berutang Ala Pangeran Genius."
-last_modified_at: 2022-02-02
+last_modified_at: 2022-02-23
 ---
 
 **Kiat Pemulihan Negara Berutang Ala Pangeran Genius** atau *The Genius Prince's Guide to Raising a Nation Out of Debt* (*Tensai Ōji no Akaji Kokka Saisei Jutsu*, 天才王子の赤字国家再生術) adalah sebuah seri novel ringan yang ditulis oleh Toba Toru. Saat pos ini ditulis, seri ini telah diadaptasi ke dalam seri *manga* (diterbitkan oleh Manga UP! milik Square Enix) pada bulan Oktober 2019, serta seri animasi televisi oleh studio Yokohama Animation Laboratory pada bulan Januari 2022.
@@ -40,3 +40,19 @@ Ngomong-ngomong, sejak saya nonton ini, lagu pembukanya selalu masuk di rekomend
 ## Episode 4
 
 Saya ndak paham apa pun, tapi adegan orang jatuh dari balkon itu sukses bikin saya ngakak.
+
+## Episode 5
+
+Err... yah... konflik selesai. Uh-hum.
+
+## Episode 6
+
+Jadi di beberapa bagian benua ini, manusia yang berambut putih diperlakukan seperti budak, gitu? Oke.
+
+Karyawan dari Agensi Intelijen Pusat.
+
+## Episode 7
+
+Jangan usik, atau nanti Anda mati.
+
+... tunggu, kok bisa?!
